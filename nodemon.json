@@ -1,0 +1,7 @@
+{
+    "watch": ["index.ts", "controllers", "models", "utils", "routes","db_connection.ts"],
+    "ext": ".ts",
+    "ignore": ["**/*.spec.ts"],
+    "exec": "ts-node ./index.ts"
+  }
+  
